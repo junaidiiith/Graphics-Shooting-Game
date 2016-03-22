@@ -1,0 +1,4 @@
+To run the C++ Angry birds file run:
+make
+
+You need to have all the other files in the compressed folder to be present in the folder from where you are running the make command.

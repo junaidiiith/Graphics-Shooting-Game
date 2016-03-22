@@ -1,0 +1,8 @@
+Controls:
+Spacebar- to shoot the cannon
+'a' and 'd' to increase and decrease the angle of shooting.
+'z' and 'x' to zoom in and zoom out.
+
+The game involves shooting of the green scoring objects and red non scoring obstacles.
+The bar above moves left and right is used to control the speed.
+The leftmost part and the rightmost part gives low speed and middle part gives high speed.
